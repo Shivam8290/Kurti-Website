@@ -1,0 +1,7 @@
+
+> backend@1.0.0 start
+> node server.js
+
+Cloudinary connected
+server started on PORT: 4000
+DB is connected
