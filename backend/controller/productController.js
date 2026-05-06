@@ -2,7 +2,7 @@ import { v2 as cloudinary } from "cloudinary";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import productModel from "../models/productModel.js";
+import productModel from "../models/Productmodel.js";
 import { frontendProducts } from "../data/frontendProducts.js";
 
 const __filename = fileURLToPath(import.meta.url);
